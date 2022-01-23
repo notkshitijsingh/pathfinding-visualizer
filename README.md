@@ -20,7 +20,6 @@ This a project made using React and it uses the Dijkstra's algorithm to find the
     
 ## Screenshots
 
-![Screenshot 1](https://imgur.com/cqYrDYl)
-![Screenshot 2](https://imgur.com/lE9RiCY)
-![Screenshot 3](https://imgur.com/tUEWLNh)
-
+![Screenshot 1](./screenshots/screenshot1)
+![Screenshot 2](./screenshots/screenshot2)
+![Screenshot 3](./screenshots/screenshot3)
