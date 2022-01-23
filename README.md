@@ -20,6 +20,6 @@ This a project made using React and it uses the Dijkstra's algorithm to find the
     
 ## Screenshots
 
+![screenshot1](https://user-images.githubusercontent.com/66397721/150685159-c8b94720-c254-4ed5-9fd5-48408d427401.png)
 ![screenshot2](https://user-images.githubusercontent.com/66397721/150685153-306abe1c-95af-4201-b16c-7e5fe276b3ea.png)
 ![screenshot3](https://user-images.githubusercontent.com/66397721/150685158-d19a1f4d-1c6c-4f1b-8dd3-e0bb56d87624.png)
-![screenshot1](https://user-images.githubusercontent.com/66397721/150685159-c8b94720-c254-4ed5-9fd5-48408d427401.png)
