@@ -18,3 +18,10 @@ This a project made using React and it uses the Dijkstra's algorithm to find the
 
 3. Reload the page that was ran on 'localhost:3000' by your terminal on your browser.
     
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1?raw=true)
+![Screenshot 2](/screenshots/screenshot2raw=true)
+![Screenshot 3](/screenshots/screenshot3raw=true)
+
+
