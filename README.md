@@ -3,6 +3,7 @@
 
 This a project made using React and it uses the Dijkstra's algorithm to find the distance between two points on the screen with obstructions between them.
 
+[Click here to access the app on your browser!](https://ornate-creponne-331e87.netlify.app/)
 
 
 ## Installation
